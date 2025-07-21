@@ -1,4 +1,4 @@
-# Introduction to Python for Biologists
+# Neural Data Science
 
 This Github repository contains the course materials for multiple iterations of BIPN 162 (Neural Data Science). You can find a recent syllabus and the corresponding course materials in the BIPN162_WI24 repository.
 
